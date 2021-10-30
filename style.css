@@ -69,7 +69,7 @@ h2:after {
     height: 4px;
     width: 50px;
     border-radius: 2px;
-    background-color: #2ecc71;
+    background-color: #ff8c00;
 }
 
 .field {
@@ -96,7 +96,7 @@ h2:after {
     width: 100%;
     padding: 00.5rem 1rem;
     font-size: 1.1rem;
-    background-color: #2ecc71;
+    background-color: #ff7f50;
     cursor: pointer;
     outline: none;
     border: none;
@@ -105,7 +105,7 @@ h2:after {
 }
 
 .btn:hover {
-    background-color: #27ae60;
+    background-color: #ff8c00;
 }
 
 @media screen and (max-width: 880px) {
